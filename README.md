@@ -1,3 +1,3 @@
 # HSRFC
 
-*Waiting for sorting...
+*code for "Hyperspectral Super-Resolution with Feedback from Classification"
